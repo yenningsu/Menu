@@ -1,0 +1,11 @@
+#! /bin/sh
+
+$file=""
+
+for input in `cat $file`
+
+do  
+    echo $input
+    echo 
+    
+done
